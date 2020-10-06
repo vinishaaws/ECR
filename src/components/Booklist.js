@@ -14,7 +14,7 @@ export default class Booklist extends Component {
         style={{ background: theme.ui, color: theme.syntax }}
       >
         <ul>
-          <li>the way of king</li>
+          <li>the way of king11</li>
           <li>the name of wind</li>
           <li>final empire</li>
         </ul>
