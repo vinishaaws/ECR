@@ -4,7 +4,7 @@ import { AuthContext } from "../contexts/authContext";
 
 // another way of using context
 export default class NavBar extends Component {
-  // static contextType = ThemeContext;
+  // static contextType = ThemeContext;q
 
   render() {
     // const { isLightTheme, light, dark } = this.context;
